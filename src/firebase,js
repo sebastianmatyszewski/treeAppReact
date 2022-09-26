@@ -1,0 +1,8 @@
+// import {initializeApp} from "firebase/app";
+// import { getFirestore } from "firebase/firestore"
+// import firebase_config from "./firebase_config";
+
+// const firebaseApp = initializeApp(firebase_config);
+// const db = getFirestore(firebaseApp)
+
+// export { db }; 
